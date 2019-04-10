@@ -1,2 +1,18 @@
 # FEWD-Portfolio-List
-Links to My Team Treehouse Front End Web Development projects.
+- Team Treehouse's Front End Web Development Techdegree teaches how to use HTML, CSS and JavaScript to build websites. Utilizing industry standard techniques to build engaging user experiences.
+
+## Project List
+### 1. Personal Profile
+Using CSS to build a sample personal profile.
+
+#### Built With:
+* CSS
+CODE:https://github.com/Melvin-Viana/p-profile
+Project Link: https://melvin-viana.github.io/p-profile/
+
+### 2. Mobile-First Responsive Layout
+Using media queries to build a website with the Mobile-First approach. 
+#### Built With:
+* HTML
+* CSS
+Project Link: https://github.com/Melvin-Viana/mobileResponsive
