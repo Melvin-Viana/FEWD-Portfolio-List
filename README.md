@@ -8,8 +8,6 @@ Using CSS to build a sample personal profile.
 #### Built With:
 * CSS
 #### Project Links
-CODE:https://github.com/Melvin-Viana/p-profile
-
 Project Link: https://melvin-viana.github.io/p-profile/
 
 ### 2. Mobile-First Responsive Layout
