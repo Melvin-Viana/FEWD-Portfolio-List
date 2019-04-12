@@ -1,5 +1,5 @@
 # FEWD-Portfolio-List
-- Team Treehouse's Front End Web Development Techdegree teaches how to use HTML, CSS and JavaScript to build websites. Utilizing industry standard techniques to build engaging user experiences.
+- Team Treehouse's Front End Web Development Techdegree teaches how to use HTML, CSS and JavaScript to build websites. Utilizing industry-standard tools and techniques to build engaging user experiences.
 
 ## Project List
 ### 1. Personal Profile
