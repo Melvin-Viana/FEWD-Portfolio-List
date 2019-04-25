@@ -5,7 +5,7 @@
 ### 1. Personal Profile
 Using CSS to build a sample personal profile.
 
-<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/p-profile.jpg"  width="500">
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/p-Profile.jpg"  width="500">
 
 #### Built With:
 * CSS
@@ -36,7 +36,7 @@ A mobile-friendly registration form utilizing a variety of form input types.
 #### Project Links
 CODE: https://github.com/Melvin-Viana/responsive-form
 
-<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/responsive-form.jpg"  width="500">
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/responsive-Form.jpg"  width="500">
 
 ### 4. Web Style Guide
 
@@ -45,5 +45,8 @@ Created a custom-made web style guide utlizing one of the most used CSS Preproce
 #### Built With:
 - HTML
 - SCSS
+
+### Project Links
+CODE: https://github.com/Melvin-Viana/webStyleGuide
 
 <img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/webStyleGuide.jpg"  width="500">
