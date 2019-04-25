@@ -38,3 +38,12 @@ CODE: https://github.com/Melvin-Viana/responsive-form
 
 <img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/responsive-form.jpg"  width="500">
 
+### 4. Web Style Guide
+
+Created a custom-made web style guide utlizing one of the most used CSS Preprocessers, SASS.
+
+#### Built With:
+- HTML
+- SCSS
+
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/webStyleGuide.jpg"  width="500">
