@@ -46,7 +46,38 @@ Created a custom-made web style guide utlizing one of the most used CSS Preproce
 - HTML
 - SCSS
 
-### Project Links
+#### Project Links
 CODE: https://github.com/Melvin-Viana/webStyleGuide
 
 <img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/webStyleGuide.jpg"  width="500">
+
+### 5. Interactive Photo Gallery
+
+An interactive photo gallery utilizing jQuery and a jQuery Lightbox plugin.
+
+#### Built With:
+- HTML
+- JavaScript
+- CSS
+- jQuery
+- [Lightbox Plugin](https://lokeshdhakar.com/projects/lightbox2/)
+
+#### Project Links
+CODE: https://github.com/Melvin-Viana/interactivePhotoGallery
+
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/interactivePhotoGallery.jpg"  width="500">
+
+### 6. Game Show App
+
+Game show app, almost like the "Wheel Of Fortune" and "Hangman" combined. Using JavaScript to creating a fun phrase-guessing game.
+
+#### Built With:
+- HTML
+- JavaScript
+- jQuery
+
+#### Project Links
+CODE: https://github.com/Melvin-Viana/gameShowApp
+
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/gameShowApp.jpg"  width="500">
+
