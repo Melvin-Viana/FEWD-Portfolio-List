@@ -81,3 +81,17 @@ CODE: https://github.com/Melvin-Viana/gameShowApp
 
 <img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/gameShowApp.jpg"  width="500">
 
+### 7. Web App Dashboard
+
+Creating a generic web application dashboard for a user. Sites like Github, Zillow, and Yelp let's it's users interact with their websites through the dashboard.
+
+### Built With:
+- HTML
+- CSS
+- JavaScript
+
+#### Project Links
+CODE: https://github.com/Melvin-Viana/webApp-dashboard
+
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/webApp-dashboard.jpg"  width="500">
+
