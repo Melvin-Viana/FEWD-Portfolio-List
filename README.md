@@ -95,3 +95,17 @@ CODE: https://github.com/Melvin-Viana/webApp-dashboard
 
 <img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/webApp-dashboard.jpg"  width="500">
 
+### 8. Employee Directory
+
+JavaScript generated employee directory. Utilizing JSON data fetched from randomuser.me.
+
+### Built With:
+- HTML
+- CSS
+- JavaScript's Fetch Method
+- Randomuser.me
+
+#### Project Links
+CODE: https://github.com/Melvin-Viana/employeeDirectory
+
+<img src="https://raw.githubusercontent.com/Melvin-Viana/FEWD-Portfolio-List/master/mockups/employeeDirectory.jpg"  width="500">
